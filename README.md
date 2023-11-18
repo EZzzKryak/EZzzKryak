@@ -1,5 +1,5 @@
 <div>
-    <h3 align="center">Всем привет 🤟</h3>
+    <h2 align="center">Всем привет 🤟</h2>
 </div>
 
 Меня зовут Саша, я ~~Бэтмен~~ фронтенд-разработчик.
@@ -22,4 +22,5 @@
 - Ссылочка для связи: [![Linkedin Badge](https://img.shields.io/badge/@ezzzkryak-blue?logo=telegram&logoColor=white)](https://t.me/ezzzkryak)
 
 - Рейтинг используемых языков:
+
 [![Рейтинг языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzzkryak&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
