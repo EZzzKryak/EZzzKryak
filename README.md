@@ -20,7 +20,7 @@
 
 - [Проект](https://github.com/EZzzKryak/my-project), над которым работаю в данный момент
 
-- Ссылочка для связи: [![Telegram](https://img.shields.io/badge/@ezzzkryak-blue?logo=telegram&logoColor=white)](https://t.me/ezzzkryak), [![Mail.ru](https://img.shields.io/badge/manicynaleksandr@mail.ru-blue?logo=mail.ru)](mailto:manicynaleksandr@mail.ru)
+- Ссылочки для связи: [![Telegram](https://img.shields.io/badge/@ezzzkryak-blue?logo=telegram&logoColor=white)](https://t.me/ezzzkryak), [![Mail.ru](https://img.shields.io/badge/manicynaleksandr@mail.ru-blue?logo=mail.ru)](mailto:manicynaleksandr@mail.ru)
 
 - Рейтинг используемых языков:
 
