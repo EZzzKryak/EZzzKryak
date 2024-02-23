@@ -2,8 +2,7 @@
 
 ### :open_book: Немного о себе :
 
-- Стек, инструменты и технологии: <img src="https://img.shields.io/badge/JavaScript-F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3178C6"/> <img src="https://img.shields.io/badge/React-61DAFB"/> <img src="https://img.shields.io/badge/Redux | Redux Toolkit- 764988"/> <img src="https://img.shields.io/badge/Webpack-8ED5FA"/> <img src="https://img.shields.io/badge/npm-CB3837"/> <img src="https://img.shields.io/badge/scss-CD6799"/> <img src="https://img.shields.io/badge/css modules-black"/> <img src="https://img.shields.io/badge/BEM (css)-C0C0C0"/> <img src="https://img.shields.io/badge/git-F05133"/> <img src="https://img.shields.io/badge/Node.js-689F63"/>
-
+- Стек, инструменты и технологии: <img src="https://img.shields.io/badge/JavaScript-F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3178C6"/> <img src="https://img.shields.io/badge/React-61DAFB"/> <img src="https://img.shields.io/badge/Redux Toolkit- 764988"/> <img src="https://img.shields.io/badge/Webpack-8ED5FA"/> <img src="https://img.shields.io/badge/npm-CB3837"/> <img src="https://img.shields.io/badge/scss-CD6799"/> <img src="https://img.shields.io/badge/css modules-black"/> <img src="https://img.shields.io/badge/BEM-C0C0C0"/> <img src="https://img.shields.io/badge/git-F05133"/> <img src="https://img.shields.io/badge/Node.js-689F63"/> <img src="https://img.shields.io/badge/React Testing Library-F94343"/> <img src="https://img.shields.io/badge/Jest-99425B"/> <img src="https://img.shields.io/badge/husky-AB6800"/> <img src="https://img.shields.io/badge/Material UI-007FFF"/>
 - Возраст: 25 лет
 
 - Проживаю в России (Нижний Новгород)
